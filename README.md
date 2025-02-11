@@ -5,3 +5,5 @@ This project was done by:
 **Soham Bhattacharya**, *Diploma in Data Science* [Regn. No.: 21F3001729] [Linkedin](https://in.linkedin.com/in/bhattacharyasoham026) and
 
 -- Jan-Apr 2024
+
+<img src="Logo.png" width="100" />
